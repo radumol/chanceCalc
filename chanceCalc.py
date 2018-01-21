@@ -6,6 +6,8 @@ total = 500
 bet = 1
 cycles = 0;
 
+crash
+
 while(1):
 
     randomNum = randint(0, 100)
