@@ -1,12 +1,11 @@
 from random import randint
 import time
 
-
+"""
 total = 500
 bet = 1
 cycles = 0;
 
-crash
 
 while(1):
 
@@ -30,3 +29,6 @@ while(1):
             break
 
     print("total: ", total)
+"""
+
+print("Hello world")
